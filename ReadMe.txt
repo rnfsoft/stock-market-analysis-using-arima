@@ -1,5 +1,6 @@
 Training from
 https://towardsdatascience.com/stock-market-analysis-using-arima-8731ded2447a
+https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
 
 Used DataReader to pull out stock info from yahoo instead of csv
 
